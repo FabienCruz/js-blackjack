@@ -1,0 +1,7 @@
+.button {
+  padding: 1em;
+}
+
+.button:hover {
+  color: blue;
+}
